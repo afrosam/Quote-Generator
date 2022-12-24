@@ -6,7 +6,7 @@ body, html {
 }
 
 .primary-bg {
-  background-color: hsl(323deg, 50%, 40%);
+  background-color: hsl(245deg, 50%, 40%);
   transition: background-color 1s ease-in;
 }
 
@@ -37,7 +37,7 @@ body, html {
   align-items: center;
   background-color: #fff;
   border-radius: 3px;
-  color: hsl(323deg, 50%, 40%);
+  color: hsl(245deg, 50%, 40%);
   max-width: 450px;
   padding: 2.5rem;
   transition: color 0.5s ease-in;
