@@ -1,24 +1,9 @@
 # quote-generator
 
-## Project setup
-```
-npm install
-```
+## a vue app I reverse engineered from FCC
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+Finished project can be found here:
+https://afrosam.github.io/Quote-Generator/
 
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+based on this FreeCodeCamp front end libraries project:
+https://random-quote-machine.freecodecamp.rocks/
